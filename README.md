@@ -64,3 +64,15 @@ A simple Command Line Interface (CLI) Todo List application built using Node.js 
 
 ![Alt text](./Screenshot.png)
 
+## 📂 Project Structure
+
+```plaintext
+CLI of a TODO Application
+│
+├── index.js           # Contains the logic for the CLI commands.
+├── package.json       # Defines the project's dependencies, scripts, and CLI command mappings.
+├── todos.json         # Stores the list of todos.
+├── package-lock.json  # Records the exact versions of dependencies installed.
+├── screenshort.png    # Command Screenshot
+└── README.md          # Project documentation
+
