@@ -60,4 +60,7 @@ A simple Command Line Interface (CLI) Todo List application built using Node.js 
      ```bash
      node index.js -h
      ```
+### Preview👀
+
+![Alt text](./Screenshot.png)
 
